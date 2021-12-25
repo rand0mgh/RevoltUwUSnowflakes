@@ -1,5 +1,5 @@
 # howto.MD
-Below is the code to apply UwUflakes.  
+Below is the code to apply UwUflakes. (note: you can also see this code on `uwu.css`!)  
 ```
 .snowflake { font-size: 0; }  
 .snowflake::after { font-size: 40px; white-space: nowrap; }  
