@@ -1,4 +1,4 @@
-# UWUFLAKES.MD
+# howto.MD
 Below is the code to apply UwUflakes.  
 ```
 .snowflake { font-size: 0; }  
